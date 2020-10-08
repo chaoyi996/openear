@@ -1,0 +1,39 @@
+
+8/29/2020
+version 1.7.0
+- NXDN48 support
+- NXDN96 support
+- dPmr support
+- audio input (dmr/nxdn48/nxdn96/dpmr/pocsag)
+- audio output saving
+- audio output select
+- squelch for audio output
+- changing waterfall paint procedure for freezing issue
+
+
+
+6/4/2020
+version 1.6.0
+- saving last settings
+- waterfall 
+- zoom on spectrum and waterfall with mouse wheel
+- better list placement (pocsag & ads-b)
+- wav(I/Q) loading (only 1024000 Sample/sec)
+- voice volume & mute button
+- spectrum range and offset 
+- rtl gain and correction (ppm)
+- top menu 
+- frequency list 
+- some DMR improvement on SYNC detection
+- solved center frequency issue (DC problem)
+- and other few UI improvements 
+
+
+4/7/2020 
+version 1.5.4
+- ADS-B(1090) added (currently Mode S)
+- 32bit version added
+
+4/5/2020 
+- updated release version of tetra vocoder dlls, SourceDLL and ChannelDLL
+(no changes in performance but solved MSVCRD120.dll problem)
