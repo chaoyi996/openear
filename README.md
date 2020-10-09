@@ -1,4 +1,4 @@
-# i am sorry but this software temporality removed from this page in regard of  DMCA Takedown Policy about Tetra! i try solve this and then continue way again
+# i am sorry but Tetra Decoder temporality removed from this Software in regard of  DMCA Takedown Policy about Tetra! i try solve this and then Tetra will be add again
 
 # OpenEar
 The OpenEar is windows based project that try to decoding protocols by RTL-SDR (Tetra, DMR,P25, ADS-B,Pocsag...)
