@@ -97,9 +97,13 @@ each option has separate license and can be ordered independent, but also can be
 Apart from what procedures other software providers will follow, the supplier has introduced this version
 
 there is links for software demos: 
+
 Motorola BP :https://youtu.be/rTQi8B86d98
+
 Hyt 10ch BP :https://youtu.be/xx6fG_KlX5k
+
 Hyt 32ch BP :https://youtu.be/9ywTxNWV6Ek
+
 Hyt 64ch BP :https://youtu.be/U5TuiNh_NQA
 
 
