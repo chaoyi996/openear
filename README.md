@@ -81,21 +81,27 @@ The relevant version for DMR BP Decryption is ready.
 
 -Auto 10ch Key Detection and Decryption of BP 10CH Hytera DMR
 
+-Auto 32ch Key Detection and Decryption of BP 32CH Hytera DMR
+
+-Auto 64ch Key Detection and Decryption of BP 64CH Hytera DMR
+
 -Set Manual Key for BP Decryption
 
 But to keep users safe that using BP on radios,
-This version is available in limited numbers and is not free.(Only 150 sales are offered for Motorla and only 50 sales for Hytera 10ch BP)
+This version is available in limited numbers and is not free.
+(Only 150 sales are offered for Motorla and only 50 sales for Hytera 10ch BP 20 sales for Hytera 32ch and 8 sales for Hytera 64ch)
 each option has separate license and can be ordered independent, but also can be ordered on one software.
 
 (software is only for educational and management system purposes, And it is not the supplier responsibility to use it illegally)
 
 Apart from what procedures other software providers will follow, the supplier has introduced this version
 
-Motorola BP
-https://youtu.be/rTQi8B86d98
+there is links for software demos: 
+Motorola BP :https://youtu.be/rTQi8B86d98
+Hyt 10ch BP :https://youtu.be/xx6fG_KlX5k
+Hyt 32ch BP :https://youtu.be/9ywTxNWV6Ek
+Hyt 64ch BP :https://youtu.be/U5TuiNh_NQA
 
-Hytera 10ch BP
-https://youtu.be/xx6fG_KlX5k
 
 ## Info
 
