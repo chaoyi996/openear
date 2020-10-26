@@ -89,7 +89,7 @@ The relevant version for DMR BP Decryption is ready.
 
 But to keep users safe that using BP on radios,
 This version is available in limited numbers and is not free.
-(Only 150 sales are offered for Motorla and only 50 sales for Hytera 10ch BP 20 sales for Hytera 32ch and 8 sales for Hytera 64ch)
+(Only 150 sales are offered for Motorla and only 50 sales for Hytera 10ch BP 15 sales for Hytera 32ch and 8 sales for Hytera 64ch)
 each option has separate license and can be ordered independent, but also can be ordered on one software.
 
 (software is only for educational and management system purposes, And it is not the supplier responsibility to use it illegally)
